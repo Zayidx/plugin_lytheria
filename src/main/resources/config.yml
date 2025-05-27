@@ -1,3 +1,6 @@
 messages:
   spawn: "Kereta siap dinaiki!"
   exit: "Terima kasih sudah menaiki kereta!"
+  no-permission: "Kamu tidak memiliki izin untuk menggunakan fitur ini!"
+  already-active: "Kamu sudah memiliki minecart aktif!"
+  error: "Gagal memunculkan kereta!"
