@@ -1,0 +1,10 @@
+name: MinecartOnRailPlugin
+version: 1.1
+main: com.example.minecartplugin.MinecartOnRailPlugin
+api-version: 1.21
+author: Grok
+description: A plugin that spawns a minecart when right-clicking a rail and removes it when the player exits.
+permissions:
+  minecartplugin.userail:
+    description: Allows players to spawn minecarts by right-clicking rails
+    default: true
